@@ -1,12 +1,5 @@
-fastapi
-uvicorn
+flask
 pandas
-numpy
-scikit-learn
-xgboost
 prophet
-joblib
 matplotlib
-seaborn
-sqlalchemy
-pydantic
+gunicorn
